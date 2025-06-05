@@ -33,6 +33,5 @@ A React app to browse, filter, and match adoptable dogs from the Fetch Rewards A
 
 ```bash
 git clone https://github.com/Vamsi404/Fetch_Rewards.git
-cd YOUR_REPO_NAME
 npm install
 npm start
